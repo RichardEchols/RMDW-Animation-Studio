@@ -1,0 +1,15 @@
+# Manim render cache (large, regenerable)
+studio/manim/media/
+media/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Local scratch
+*.tmp
+preview.png
+smoke_test.py
